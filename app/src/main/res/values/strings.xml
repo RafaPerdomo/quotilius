@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Diseño de Main -->
+    <string name="app_name">Quotilius</string>
+    <string name="action_add">Añadir</string>
+
+    <!-- Diseño de Form -->
+    <string name="title_activity_form">Nueva Frase</string>
+    <string name="quote">Frase</string>
+    <string name="author">Autor</string>ç
+    <string name="loading">loading</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+
+
+</resources>
